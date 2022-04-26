@@ -1,0 +1,25 @@
+center{
+    background-color: black;
+    color: white;
+    padding: 5rem 0;
+    font-style: italic;
+    word-spacing: 4px;
+    letter-spacing: 2px;
+}
+.circle{
+    text-align: center;
+    cursor: pointer;
+    width: 80px;
+    height: 80px;
+    border: 4px solid black;
+    border-radius: 100px;
+    background-color: white;
+    color: white;
+    font-size: 35px;
+    padding: 18px 0;
+}
+.reset{
+    color: greenyellow;
+    border: 2px solid white;
+    width: 306px;
+}
